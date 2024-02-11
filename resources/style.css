@@ -1,4 +1,4 @@
-*{
+d*{
     margin: 0;
     padding: 0;
 }
@@ -102,6 +102,10 @@ nav{
     
     header{
         margin: 0;
+    }
+
+    nav{
+        margin: 0 10px;
     }
     
     main{
