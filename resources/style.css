@@ -99,16 +99,12 @@ nav{
 }
 
 @media only screen and (max-width: 730px){
-    
-    header{
-        margin: 0;
-    }
 
     nav{
-        margin: 0 10px;
+        margin: 0 2%;
     }
     
-    main{
+    header, main{
         margin: 0;
     }
 
