@@ -25,8 +25,7 @@ a, .logo{
 /* Navbar */
 
 nav{
-    width: 95%;
-    margin: 0 2%;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -100,13 +99,9 @@ nav{
 }
 
 @media only screen and (max-width: 730px){
-
-    nav{
-        margin: 0 10px;
-    }
     
-    header, main{
-        margin: 0;
+    main{
+        margin: 0 5px;
     }
 
     .desktop{
