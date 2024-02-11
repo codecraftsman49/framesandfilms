@@ -100,8 +100,12 @@ nav{
 
 @media only screen and (max-width: 730px){
     
+    header{
+        margin: 0;
+    }
+    
     main{
-        margin: 0 20px;
+        margin: 0 5px;
     }
 
     .desktop{
