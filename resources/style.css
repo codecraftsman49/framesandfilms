@@ -1,4 +1,4 @@
-d*{
+*{
     margin: 0;
     padding: 0;
 }
@@ -25,7 +25,8 @@ a, .logo{
 /* Navbar */
 
 nav{
-    width: 100%;
+    width: 95%;
+    margin: 0 2%;
     display: flex;
     align-items: center;
     justify-content: space-between;
